@@ -2,5 +2,4 @@ mumuxi
 ======
 
 This is  my repository
-
-first pull and first bash
+开发能睡懒觉过路口上的痕迹公里数
